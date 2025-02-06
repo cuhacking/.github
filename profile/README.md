@@ -1,6 +1,6 @@
 <div align="center">
     <a href="https://github.com/cuhacking/2025">
-        <img src="https://private-user-images.githubusercontent.com/54924158/395830304-79f41e64-4bef-4df6-b3e8-a16e67e75f4c.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzQ4MDI5NjksIm5iZiI6MTczNDgwMjY2OSwicGF0aCI6Ii81NDkyNDE1OC8zOTU4MzAzMDQtNzlmNDFlNjQtNGJlZi00ZGY2LWIzZTgtYTE2ZTY3ZTc1ZjRjLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDEyMjElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQxMjIxVDE3Mzc0OVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTIzYTQ5NjUyZTc1Nzg4NGEwMzQyYTgyZGY4NGUwNGNkZjJjMTViMmNiMDAzMmEzZWVlN2VmZDBmNTIwYTA1NGUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.LV9t9v6CRMpf9YYRx05aPOB7Zg4Gc3bky2ETtHD39xc" alt="cuHacking 2025">
+        <img src="https://github.com/user-attachments/assets/2d1450bd-6e28-4078-931d-6d60e492e510" alt="cuHacking 2025">
     </a>
 </div>
 
